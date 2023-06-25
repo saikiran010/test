@@ -1,1 +1,1 @@
-[for preview(saikiran010.github.io/Portfolio/)]
+[for preview](saikiran010.github.io/Portfolio/)
